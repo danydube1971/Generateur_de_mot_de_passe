@@ -1,3 +1,8 @@
+"""Le script génère un mot de passe aléatoire à partir de trois mots-clés ciblés entrés par l'utilisateur.
+Le résultat est un mot de passe aléatoire complexe qui contient les trois mots-clés entrés par l'utilisateur, 
+ainsi que des caractères aléatoires supplémentaires. La longueur du mot de passe final est comprise entre 8 et 16 caractères, 
+et il ne contient pas de caractères accentués."""
+
 import random
 
 def generate_password(keyword1, keyword2, keyword3):
