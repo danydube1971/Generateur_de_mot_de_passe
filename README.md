@@ -1,4 +1,4 @@
-# generateur_de_mot_de_passe
+# Générateur de mot de_passe
 
 Le script génère un mot de passe aléatoire à partir de trois mots-clés ciblés entrés par l'utilisateur. 
 
