@@ -2,6 +2,9 @@
 
 Le script génère un mot de passe aléatoire à partir de trois mots-clés ciblés entrés par l'utilisateur. 
 
+![Gen_mdp](https://github.com/danydube1971/Generateur_de_mot_de_passe/assets/74633244/e3a33f76-83bb-46ec-8fd6-e39be842a3b9)
+
+
 Voici les étapes du script :
 
 1. L'utilisateur entre trois mots-clés.
